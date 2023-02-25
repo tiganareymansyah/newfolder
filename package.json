@@ -1,0 +1,19 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "Tempat Belajar",
+  "main": "Belajar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trs"
+  ],
+  "author": "Tigana Reymansyah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "git": "^0.1.5"
+  },
+  "type": "module"
+}
