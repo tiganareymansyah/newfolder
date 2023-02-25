@@ -57,4 +57,4 @@
 // }
 
 
-console.log("Tigana Reymansyah 2502");
+console.log("Tigana Reymansyah");
